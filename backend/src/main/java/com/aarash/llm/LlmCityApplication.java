@@ -9,5 +9,4 @@ public class LlmCityApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LlmCityApplication.class, args);
 	}
-
 }

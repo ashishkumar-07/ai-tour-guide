@@ -15,6 +15,8 @@ npm install
 npm start
 
 ## Usage
-
 Enter the city name in UI and wait for the response
 ![alt text](image.png)
+
+### Explanation
+Refer to this [post](https://beyondbasics.medium.com/spring-ai-your-ultimate-llm-powered-city-tour-guide-1342dde47580)
