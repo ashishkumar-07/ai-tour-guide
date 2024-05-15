@@ -1,0 +1,41 @@
+/* CityInfo.css */
+
+.city-info {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .info-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 20px;
+  }
+  
+  .info-section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .map-container {
+    margin-top: 20px;
+  }
+  
+  .map {
+    height: 300px;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .additional-info {
+    margin-top: 20px;
+  }
+  
+  .additional-info h3 {
+    margin-top: 20px;
+  }
+  
